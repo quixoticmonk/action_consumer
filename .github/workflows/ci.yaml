@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 #v4.3.0
-    - uses: quixoticmonk/test-action@bac1edb56f2a872bfc946735941096304afa6804
+    - uses: quixoticmonk/test-action@a610f8e1a110057e188126c2a193bbf74ed90656
